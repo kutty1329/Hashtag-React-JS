@@ -1,0 +1,15 @@
+#bc1
+{
+  background-color: rgb(235, 107, 107);
+}
+  #texting
+  {
+    color: rgb(239, 77, 23);
+    font-family: cursive;
+    font-style: italic;
+  }
+  #servicebg
+  {
+    background-image: linear-gradient(rgba(49, 5, 5, 0.97),rgb(241, 145, 71),rgba(242, 206, 63, 0.833));
+    color: transparent;
+  }
